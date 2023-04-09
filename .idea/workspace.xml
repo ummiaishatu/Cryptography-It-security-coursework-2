@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="629f46a4-a3bb-4e8f-a04b-887e08b5d1e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kX4tI2aTRoTYZ8RFP72dBVgURq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.tests">
+    <configuration name="merkle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Merkle" />
+      <module name="cs-318 coursework 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="RunTests" />
+      <module name="cs-318 coursework 2" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.merkle" />
+      <item itemvalue="Application.tests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="629f46a4-a3bb-4e8f-a04b-887e08b5d1e4" name="Default Changelist" comment="" />
+      <created>1605833815371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605833815371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Notifications" timestamp="1606517252223">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1606517252223" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606769994848">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1606769994848" />
+    <state x="431" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606532395095">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="431" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1606532395095" />
+    <state x="457" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606769978730">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1606769978730" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606789752166">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1606789752166" />
+    <state x="463" y="204" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606768384089">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="463" y="204" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1606768384089" />
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom" timestamp="1606789676357">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606789676357" />
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1606625613243" />
+    <state width="1398" height="219" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1606444158121" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center" timestamp="1606789676356">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606789676356" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1606625613242" />
+    <state width="1398" height="219" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1606444158119" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left" timestamp="1606789676355">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606789676355" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1606625613239" />
+    <state width="1398" height="219" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1606444158118" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right" timestamp="1606789676357">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606789676357" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1606625613242" />
+    <state width="1398" height="219" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1606444158120" />
+    <state x="208" y="23" width="1024" height="824" key="SettingsEditor" timestamp="1606789784286">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="23" width="1024" height="824" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1606789784286" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1606768155485">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1606768155485" />
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.824@0.23.1440.824" timestamp="1605833822468" />
+    <state x="458" y="210" key="extract.method.dialog" timestamp="1606348692867">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="210" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1606348692867" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1605835670905">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1605835670905" />
+  </component>
+</project>
